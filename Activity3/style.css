@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    color: red;
+    
+}
+
+p{
+    padding: 5%;
+    border: 1px solid red;
+    
+}

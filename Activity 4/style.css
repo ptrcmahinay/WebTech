@@ -1,0 +1,25 @@
+
+.full-background{
+    background-image: url(one.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+.tiled-background {
+    background-image: url(anime.jpg);
+    background-repeat: repeat;
+    height: 500px;
+}
+
+.fixed-background {
+    background-image: url(fixed.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px; 
+}
+
+.cover-background {
+    background-image: url('four.jpg');
+    background-size: cover;
+    height: 250px; /* Adjust height as needed */
+}
